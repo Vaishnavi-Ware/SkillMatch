@@ -1,0 +1,7 @@
+flask
+werkzeug
+pymongo
+dnspython
+python-dotenv
+google-genai
+certifi
